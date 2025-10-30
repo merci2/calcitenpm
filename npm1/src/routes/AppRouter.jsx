@@ -1,5 +1,5 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Home from '../pages/Home';
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import Home from '../pages/Home'
 
 function AppRouter() {
   return (
@@ -11,4 +11,7 @@ function AppRouter() {
   );
 }
 
-export default AppRouter;
+export default AppRouter
+
+
+
