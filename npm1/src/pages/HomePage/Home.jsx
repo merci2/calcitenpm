@@ -1,4 +1,4 @@
-import Layout from "../components/Layout"
+import Layout from "../../components/Layout"
 import HomeContent from "./HomeContent"
 import "@esri/calcite-components/dist/components/calcite-panel"
 import "@esri/calcite-components/dist/components/calcite-button"
